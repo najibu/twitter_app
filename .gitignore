@@ -26,4 +26,4 @@
 # Ignore uploaded test images.
 /public/uploads
 
-/.env
+.env
