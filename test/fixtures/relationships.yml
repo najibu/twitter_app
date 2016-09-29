@@ -1,0 +1,15 @@
+one:
+  follower: najibu
+  followed: lana
+
+two:
+  follower: najibu
+  followed: malory
+
+three:
+  follower: lana
+  followed: najibu
+
+four:
+  follower: archer
+  followed: najibu
